@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Imagem](./Captura de tela 2023-12-28 120911.png)
+<img src="./Captura de tela 2023-12-28 120911.png">
